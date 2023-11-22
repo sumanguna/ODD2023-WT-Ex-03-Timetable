@@ -64,6 +64,7 @@ Execute the program
 
 
 # OUPUT
-![Alt text](<Screenshot 2023-11-22 085310-1.png>)
+![Screenshot 2023-11-22 085310](https://github.com/sumanguna/ODD2023-WT-Ex-03-Timetable/assets/146914442/469c60a2-4bd3-41ee-83b5-262e1a2b580f)
+
 
 
