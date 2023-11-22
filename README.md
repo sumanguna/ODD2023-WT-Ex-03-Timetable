@@ -68,4 +68,4 @@ Execute the program
 ![Alt text](<Screenshot 2023-11-22 085310-1.png>)
 
 # RESULT
-out is excuted successfully
+output is excuted successfully
