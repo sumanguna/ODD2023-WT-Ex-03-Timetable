@@ -1,5 +1,8 @@
 # Ex-04-Timetable
 ## AIM
+NAME:SUMAN.G
+REFERENCE NUMBER:23014256
+DEPARTMENT:AIML
 To Write a html webpage page to display your timetable.
 
 # ALGORITHM
@@ -26,7 +29,6 @@ Execute the program
     <table style="width:100%;">
     <tr>
         <th>Reference no</th>
-        <th>23014256</th>
         <th>Masina Sreekarsh</th>
         
     </tr>
@@ -62,5 +64,6 @@ Execute the program
 
 
 # OUPUT
-![Screenshot 2023-11-21 193034](https://github.com/sumanguna/ODD2023-WT-Ex-03-Timetable/assets/146914442/e947972b-e7c4-46b1-9266-d28f16ada347)
+![Alt text](<Screenshot 2023-11-22 085310-1.png>)
+
 
