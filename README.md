@@ -1,6 +1,9 @@
 # Ex-04-Timetable
 Name: SUMAN.G REFERENCE NUMBER:23014256 DEPERATMENT: AIML
 ## AIM
+NAME:SUMAN.G
+REFERENCE NUMBER:23014256
+DEPARTMENT:AIML
 To Write a html webpage page to display your timetable.
 
 # ALGORITHM
